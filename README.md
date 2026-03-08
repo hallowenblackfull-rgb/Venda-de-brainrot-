@@ -24,22 +24,22 @@ footer{text-align:center;padding:20px;background:#020617;color:#94a3b8}
 </header><section class="container"><div class="card">
 <img src="https://tr.rbxcdn.com/180DAY-9b4b7d5cfe7d9c1d9c9c5b5b/420/420/Image/Png/noFilter">
 <h3>Brainrot Básico</h3>
-<div class="price">R$10</div>
+<div class="price">R$30</div>
 <button onclick="comprar('Brainrot Básico')">Comprar</button>
 </div><div class="card">
 <img src="https://tr.rbxcdn.com/180DAY-9b4b7d5cfe7d9c1d9c9c5b5b/420/420/Image/Png/noFilter">
-<h3>Brainrot Pro</h3>
-<div class="price">R$25</div>
+<h3>Brainrot acima de 30m</h3>
+<div class="price">R$40</div>
 <button onclick="comprar('Brainrot Pro')">Comprar</button>
 </div><div class="card">
 <img src="https://tr.rbxcdn.com/180DAY-9b4b7d5cfe7d9c1d9c9c5b5b/420/420/Image/Png/noFilter">
-<h3>Brainrot Ultra</h3>
+<h3>Brainrot acima de 60m</h3>
 <div class="price">R$50</div>
 <button onclick="comprar('Brainrot Ultra')">Comprar</button>
 </div></section><section class="pay">
 <h2>Pagamento</h2><div class="pix">
 <h3>PIX</h3>
-<p>Chave Pix: sua-chave-pix-aqui</p>
+<p>Chave Pix:21983037588</p>
 </div><div class="cardpay">
 <h3>Cartão</h3>
 <p>Aceitamos Visa, Mastercard e Elo.</p>
